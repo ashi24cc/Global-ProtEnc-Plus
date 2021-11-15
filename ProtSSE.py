@@ -13,7 +13,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from keras.models import load_model
 import matplotlib.pyplot as plt
-from 
+from Segmentation import main_fun
 np.random.seed(7)
 
 def epsilon():
