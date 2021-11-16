@@ -9,4 +9,6 @@ This has following main python files.
   5) evaluate.py - This contains the code for the evaluation metrics.
 
 The datasets are available for download at google drive: https://bit.ly/3n4giKs
-(https://github.com/ashi24cc/Global-ProtEnc-Plus/files/7543325/image2.pdf)
+
+
+![Multi-attention Mechanism Block](https://user-images.githubusercontent.com/49548981/141917493-63afd3ff-e031-4f9e-9fc0-0a12262fb3ce.png)
