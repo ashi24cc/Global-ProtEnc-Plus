@@ -12,3 +12,6 @@ The datasets are available for download at google drive: https://bit.ly/3n4giKs
 
 
 ![Multi-attention Mechanism Block](https://user-images.githubusercontent.com/49548981/141917493-63afd3ff-e031-4f9e-9fc0-0a12262fb3ce.png)
+
+Cite this article at:
+A. Ranjan, A. Tiwari and A. Deepak, "A Sub-Sequence Based Approach to Protein Function Prediction via Multi-Attention Based Multi-Aspect Network," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2021.3130923.
